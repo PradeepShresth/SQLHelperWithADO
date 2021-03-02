@@ -1,0 +1,38 @@
+C:\Users\Pradeep Shrestha\source\repos\SQLHelper-With-ADO.NET-master\WebApp\obj\Debug\netcoreapp2.1\WebApp.csprojAssemblyReference.cache
+C:\Users\Pradeep Shrestha\source\repos\SQLHelper-With-ADO.NET-master\WebApp\obj\Debug\netcoreapp2.1\WebApp.AssemblyInfoInputs.cache
+C:\Users\Pradeep Shrestha\source\repos\SQLHelper-With-ADO.NET-master\WebApp\obj\Debug\netcoreapp2.1\WebApp.AssemblyInfo.cs
+C:\Users\Pradeep Shrestha\source\repos\SQLHelper-With-ADO.NET-master\WebApp\obj\Debug\netcoreapp2.1\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\Pradeep Shrestha\source\repos\SQLHelper-With-ADO.NET-master\WebApp\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Pradeep Shrestha\source\repos\SQLHelper-With-ADO.NET-master\WebApp\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Pradeep Shrestha\source\repos\SQLHelper-With-ADO.NET-master\WebApp\bin\Debug\netcoreapp2.1\WebApp.deps.json
+C:\Users\Pradeep Shrestha\source\repos\SQLHelper-With-ADO.NET-master\WebApp\bin\Debug\netcoreapp2.1\WebApp.runtimeconfig.json
+C:\Users\Pradeep Shrestha\source\repos\SQLHelper-With-ADO.NET-master\WebApp\bin\Debug\netcoreapp2.1\WebApp.runtimeconfig.dev.json
+C:\Users\Pradeep Shrestha\source\repos\SQLHelper-With-ADO.NET-master\WebApp\bin\Debug\netcoreapp2.1\WebApp.dll
+C:\Users\Pradeep Shrestha\source\repos\SQLHelper-With-ADO.NET-master\WebApp\bin\Debug\netcoreapp2.1\WebApp.pdb
+C:\Users\Pradeep Shrestha\source\repos\SQLHelper-With-ADO.NET-master\WebApp\bin\Debug\netcoreapp2.1\Project.Models.dll
+C:\Users\Pradeep Shrestha\source\repos\SQLHelper-With-ADO.NET-master\WebApp\bin\Debug\netcoreapp2.1\SQLHelper.dll
+C:\Users\Pradeep Shrestha\source\repos\SQLHelper-With-ADO.NET-master\WebApp\bin\Debug\netcoreapp2.1\Project.Models.pdb
+C:\Users\Pradeep Shrestha\source\repos\SQLHelper-With-ADO.NET-master\WebApp\bin\Debug\netcoreapp2.1\SQLHelper.pdb
+C:\Users\Pradeep Shrestha\source\repos\SQLHelper-With-ADO.NET-master\WebApp\obj\Debug\netcoreapp2.1\WebApp.csproj.CopyComplete
+C:\Users\Pradeep Shrestha\source\repos\SQLHelper-With-ADO.NET-master\WebApp\obj\Debug\netcoreapp2.1\WebApp.dll
+C:\Users\Pradeep Shrestha\source\repos\SQLHelper-With-ADO.NET-master\WebApp\obj\Debug\netcoreapp2.1\WebApp.pdb
+C:\Users\Pradeep Shrestha\source\repos\SQLHelper-With-ADO.NET-master\WebApp\obj\Debug\netcoreapp2.1\WebApp.genruntimeconfig.cache
+C:\Users\Pradeep\Documents\SQLHelper-With-ADO.NET-master\WebApp\obj\Debug\netcoreapp2.1\WebApp.csprojAssemblyReference.cache
+C:\Users\Pradeep\Documents\SQLHelper-With-ADO.NET-master\WebApp\obj\Debug\netcoreapp2.1\WebApp.AssemblyInfoInputs.cache
+C:\Users\Pradeep\Documents\SQLHelper-With-ADO.NET-master\WebApp\obj\Debug\netcoreapp2.1\WebApp.AssemblyInfo.cs
+C:\Users\Pradeep\Documents\SQLHelper-With-ADO.NET-master\WebApp\obj\Debug\netcoreapp2.1\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\Pradeep\Documents\SQLHelper-With-ADO.NET-master\WebApp\obj\Debug\netcoreapp2.1\WebApp.dll
+C:\Users\Pradeep\Documents\SQLHelper-With-ADO.NET-master\WebApp\obj\Debug\netcoreapp2.1\WebApp.pdb
+C:\Users\Pradeep\Documents\SQLHelper-With-ADO.NET-master\WebApp\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Pradeep\Documents\SQLHelper-With-ADO.NET-master\WebApp\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Pradeep\Documents\SQLHelper-With-ADO.NET-master\WebApp\bin\Debug\netcoreapp2.1\WebApp.deps.json
+C:\Users\Pradeep\Documents\SQLHelper-With-ADO.NET-master\WebApp\bin\Debug\netcoreapp2.1\WebApp.runtimeconfig.json
+C:\Users\Pradeep\Documents\SQLHelper-With-ADO.NET-master\WebApp\bin\Debug\netcoreapp2.1\WebApp.runtimeconfig.dev.json
+C:\Users\Pradeep\Documents\SQLHelper-With-ADO.NET-master\WebApp\bin\Debug\netcoreapp2.1\WebApp.dll
+C:\Users\Pradeep\Documents\SQLHelper-With-ADO.NET-master\WebApp\bin\Debug\netcoreapp2.1\WebApp.pdb
+C:\Users\Pradeep\Documents\SQLHelper-With-ADO.NET-master\WebApp\bin\Debug\netcoreapp2.1\Project.Models.dll
+C:\Users\Pradeep\Documents\SQLHelper-With-ADO.NET-master\WebApp\bin\Debug\netcoreapp2.1\SQLHelper.dll
+C:\Users\Pradeep\Documents\SQLHelper-With-ADO.NET-master\WebApp\bin\Debug\netcoreapp2.1\Project.Models.pdb
+C:\Users\Pradeep\Documents\SQLHelper-With-ADO.NET-master\WebApp\bin\Debug\netcoreapp2.1\SQLHelper.pdb
+C:\Users\Pradeep\Documents\SQLHelper-With-ADO.NET-master\WebApp\obj\Debug\netcoreapp2.1\WebApp.csproj.CopyComplete
+C:\Users\Pradeep\Documents\SQLHelper-With-ADO.NET-master\WebApp\obj\Debug\netcoreapp2.1\WebApp.genruntimeconfig.cache
